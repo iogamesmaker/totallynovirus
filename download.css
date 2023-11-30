@@ -1,0 +1,13 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+.topnav {
+    background-color: chocolate;
+}
+
+.btn{
+    background-image: url(downloads.jpeg);
+    padding: 50px 180px;
+}
